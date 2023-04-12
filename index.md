@@ -4,6 +4,12 @@ layout: default
 
 # Online-Go.com Developer Resources
 
+## gtp2ogs project and documentation
+
+To connect a bot to the online-go.com servers, you'll need to use the [gtp2ogs](https://github.com/online-go.com/gtp2ogs)
+project which will allow you to connect a bot that speaks the [Go Text Protocol](https://www.gnu.org/software/gnugo/gnugo_19.html)
+to the online-go.com servers.
+
 ## Realtime API
 
 Playing games, chatting, accessing the AI review system, and many more features
