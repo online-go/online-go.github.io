@@ -26,3 +26,10 @@ Creating challenges, adding friends, joining tournaments and ladders, loading ts
 and many more features are done via REST calls to the REST API.
 
 [Online-Go.com REST API documentation](https://online-go.com/api-docs/)
+
+## OAuth2 Authentication
+
+For third-party applications that need to authenticate users and access the API on their behalf,
+OGS provides OAuth2 with PKCE support.
+
+[OAuth2 Authentication Guide](oauth2.html)
