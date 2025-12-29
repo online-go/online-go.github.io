@@ -2,7 +2,8 @@
 layout: default
 ---
 
-For a guide with screenshots, see: https://forums.online-go.com/t/oauth2-how-to/58804
+For a guide with screenshots, see:
+[OAuth2 How To](https://forums.online-go.com/t/oauth2-how-to/58804)
 
 ---
 
