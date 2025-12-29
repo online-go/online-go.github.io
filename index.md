@@ -25,4 +25,4 @@ The protocol is documented in the Goban project here:
 Creating challenges, adding friends, joining tournaments and ladders, loading tsumego,
 and many more features are done via REST calls to the REST API.
 
-The REST API documentation is a work in progress.
+[Online-Go.com REST API documentation](https://online-go.com/api-docs/)
